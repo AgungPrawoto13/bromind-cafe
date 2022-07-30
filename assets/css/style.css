@@ -1,0 +1,569 @@
+* {
+    transition: all;
+    transition-duration: 0.2s;
+    margin: 0px;
+}
+
+p{
+    font-family: "HelveticaNeueLTStd-Light" !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "HelveticaNeueLTStd-Light" !important;
+}
+
+body {
+    font-family: "HelveticaNeueLTStd-Light" !important;
+    scroll-behavior: smooth;
+}
+
+html,body{
+    scroll-behavior: smooth;
+}
+
+.btn-number{
+    margin-left: 0.5rem;
+}
+
+input[type="number"]{
+    appearance : textfield;
+    width: 25%;
+    margin-left: 0.5rem;
+    border: none;
+    border-bottom: 1px solid;
+    text-align: center;
+    background: white;
+    color:black;
+}
+
+.language{
+    background-color: transparent;
+    border-color: transparent;
+    color: white;
+    font-family: "HelveticaNeueLTStd-Light";
+}
+
+.active2{
+    border-bottom: 2px solid white;
+}
+
+/*.btn-outline-danger:hover{
+    background-color: white;
+    border-color: white;
+}*/
+
+.btn-danger{
+    background-color: #C62121 !important;
+}
+.box-line, .box-line-story{
+    width: 36%;
+    height: 250px;
+    position: absolute;
+    left: 11%;
+    margin-top: -1.5%;
+    border: 3px solid #C62121;
+}
+.Group_124 img, .Group_121 img{
+    height: 400px;
+}
+
+.history h2{
+    margin-left: 83.333333%;
+}
+
+.facilities h3{
+    font-family: "HelveticaNeueLTStd-Light";
+}
+
+#story h2, #story .isi, #story_page, .harga, #name_produk h3, .gopay, .ovo, #location h3, .navbar #list, .navbar #cart-lang, #foll h4, #loc h4{
+    font-family: "HelveticaNeueLTStd-Light";
+}
+        
+
+.btn-orer a {
+    background: #C62121;
+    font-family: "HelveticaNeueLTStd-Light";
+    font-size: 20px;
+    margin-top: 1rem;
+}
+
+
+/*teks pada cart*/
+
+.subtotal label,
+.idr label {
+    font-family: "HelveticaNeueLTStd-Bold";
+}
+
+#produk_name .count {
+    font-size: 16px;
+    font-family: "HelveticaNeueLTStd-Light";
+}
+
+#produk_name .produk_title,
+#produk_name .idr {
+    font-family: "HelveticaNeueLTStd-Light";
+}
+
+
+/* membuat cart menjadi full */
+
+#singleCart .modal-content {
+    height: auto;
+}
+
+
+/*garis di cart*/
+
+#list-cart-single hr {
+    border: 0.1px solid #ddd;
+}
+
+
+/*judul pada cart*/
+
+#list-cart-single .title {
+    margin-top: -12%;
+    margin-left: 4%;
+    font-family: "HelveticaNeueLTStd-Bold";
+    font-size: 20px;
+}
+
+
+/*mengatur tanda silang*/
+
+#cart-single-button button {
+    margin-top: 1%;
+    margin-right: -1%;
+}
+
+
+/*menghilangkan garis */
+
+#cart .modal-header,
+.cart-single .modal-header {
+    border-bottom: 0px !important;
+}
+
+
+/*mengatur tampilan cart*/
+
+.cart-single .modal-dialog {
+    float: right;
+    margin: -0.5% -1.4%;
+}
+
+.cart {
+    font-size: 24px;
+    font-family: HelveticaNeueLTStd-Roman;
+}
+
+.order {
+    background: #C62121 !important;
+    font-size: 24px;
+    font-family: HelveticaNeueLTStd-Roman;
+}
+
+
+/* teks styel pada keranjang belanja*/
+
+#list-cart .name {
+    font-size: 30px;
+    font-family: HelveticaNeueLTStd-Roman;
+}
+
+#list-cart .qty {
+    margin-top: 5%;
+}
+
+#list-cart .description,
+#list-cart .qty {
+    font-size: 18px;
+    font-family: HelveticaNeueLTStd-Roman;
+}
+
+#list-cart .idr {
+    position: absolute;
+    top: 20%;
+    font-size: 20px;
+    font-family: HelveticaNeueLTStd-Roman;
+}
+
+#cart .modal-content {
+    width: 150%;
+    position: absolute;
+    top: 130px;
+    left: -100px;
+}
+
+#cart .modal-body {
+    margin-top: -5%;
+}
+
+#image-product img {
+    height: 260px;
+    margin-top: 4%;
+}
+
+
+/* bagian all product */
+
+#type ul {
+    display: ruby-base-container;
+}
+
+#type li {
+    display: block;
+    padding: 1%;
+    margin-left: -1%;
+}
+
+#type h5 {
+    color: black;
+}
+
+#all_produk .harga {
+    margin-left: 11%;
+    color: white;
+}
+
+#all_produk h5 {
+    position: absolute;
+    top: 20%;
+    left: 18%;
+}
+
+#all_produk img {
+    width: 90% !important;
+}
+
+
+/*harga*/
+
+.harga {
+    width: 40%;
+    height: 40px;
+    background-color: #C62121;
+    position: absolute;
+    top: -9%;
+    left: 55.5%;
+}
+
+
+/* HEADER */
+
+.navbar {
+    font-family: "HelveticaNeueLTStd-Roman";
+    font-size: 20px;
+    height: 101px;
+    padding: 0 85px;
+    background-color: #C62121 !important;
+}
+
+.navbar-brand {
+    width: 71px;
+    height: 71px;
+    background-color: #DBABAB !important;
+    border-radius: 50%;
+}
+
+.navbar-brand img {
+    width: 57px;
+    filter: drop-shadow(1px 2px 3px rgba(0, 0, 0, 25%));
+    position: absolute;
+    margin: 2px 0 0 6px;
+}
+
+/*garis putih pada navbar*/
+.border-bottom-active {
+    color: white;
+    transition: 0.25s;
+    border-bottom: 2px solid white;
+    height: 50px;
+}
+
+
+/* Navbar Collapse Mobile */
+
+body.offcanvas-active {
+    /* Hidden navbar collapse at Large Size */
+    overflow: hidden;
+}
+
+.offcanvas-header {
+    /* Hidden End*/
+    display: none;
+}
+
+
+/* MAIN CONTENT */
+
+main {
+    margin-top: 200px;
+    margin-bottom: 160px;
+}
+
+
+/* HERO */
+
+
+/* Button Sosmed */
+
+.Hero #blackr {
+    background-color: #262626;
+    width: 49%;
+    line-height: normal;
+    padding: 11px 10px;
+    border-radius: 5px;
+    margin-top: 16%;
+    margin-left: 1%;
+}
+
+.Hero #blackr i {
+    font-size: 24px;
+    color: white;
+}
+
+
+/* Card */
+
+.card {
+    border-radius: 0px;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 25%));
+}
+
+
+/*
+.card-body {
+    padding: 42px 0px 0px 80px;
+}
+*/
+
+
+/* Heading Contact Us */
+
+
+/*.card-body #h-contact {
+    font-family: "HelveticaNeueLTStd-Med";
+    font-size: 36px;
+}
+
+.card-body #red-line {
+    width: 180px;
+    height: 3px;
+    background-color: #C62121;
+    margin-left: 7px;
+}*/
+
+
+/* Form */
+
+
+/*.card-body form {
+    margin-top: 68px;
+}*/
+
+form #sm-nm,
+form #sm-em,
+form #sm-msg {
+    font-family: "HelveticaNeueLTStd-Light";
+    font-size: 14px;
+    color: #6C6C6C;
+}
+
+form #sm-em {
+    margin-top: 62px;
+}
+
+form label {
+    font-family: "HelveticaLTStd-Light";
+    font-size: 20px;
+    color: #262626;
+}
+
+form input[type="email"],
+form input[type="text"] {
+    font-family: "HelveticaNeueLTStd-Roman";
+    font-size: 20px;
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid #262626;
+}
+
+form input[type="checkbox"] {
+    width: 25px;
+    height: 25px;
+    border: 1px solid #262626;
+    border-radius: 0px;
+    margin-right: 15px;
+}
+
+form textarea {
+    border: none;
+    font-family: "HelveticaNeueLTStd-Roman";
+    font-size: 20px;
+    /* margin-left: 14px; */
+}
+
+form input::placeholder,
+form textarea::placeholder {
+    color: #262626;
+}
+
+form input:focus,
+form textarea:focus {
+    outline: none;
+}
+
+form .checkbox {
+    margin: 50px 0 95px 0;
+}
+
+form .btn-danger {
+    font-family: "HelveticaNeueLTStd-Roman";
+    font-size: 28px;
+    background-color: #C62121;
+    height: 62px;
+    width: -webkit-fill-available;
+    position: absolute;
+    right: 0;
+    border: none;
+    border-radius: 0;
+    bottom: -18px;
+    margin-left: -1px;
+    padding: 11px 0;
+}
+
+
+/* FOOTER */
+
+footer {
+    position: relative;
+    height: 100%;
+    background-color: #C62121;
+}
+
+footer .row {
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+}
+
+footer h4 {
+    font-family: "HelveticaNeueLTStd-Med";
+    font-size: 24px;
+}
+
+footer #story,
+footer #open,
+footer #foll,
+footer #loc,
+footer #loc a,
+footer #copyright {
+    color: white;
+}
+
+footer #story {
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 30px;
+}
+
+#story h4 {
+    margin-bottom: 22px;
+}
+
+#story p {
+    font-family: "HelveticaNeueLTStd-Roman";
+    font-size: 14px;
+    letter-spacing: 2px;
+    line-height: 180%;
+}
+
+#open {
+    height: 314px;
+    padding-left: 60px;
+    margin-top: 33px !important;
+    border-left: 1px solid white;
+}
+
+#open img {
+    width: 90px;
+    position: absolute;
+    top: -14px;
+    left: 148px;
+}
+
+#open table {
+    margin-top: 40px;
+}
+
+#open td {
+    font-family: "HelveticaNeueLTStd-Roman";
+    font-size: 16px;
+    letter-spacing: 3px;
+    line-height: 45px;
+}
+
+#open #space {
+    width: 15px;
+}
+
+#open h4 {
+    margin-top: 17px;
+}
+
+footer #foll {
+    margin-top: 56px;
+}
+
+#loc h4 {
+    margin-bottom: 15px;
+}
+
+#foll ul {
+    list-style: none;
+    display: inline-flex;
+    padding: 0;
+    margin: 0;
+}
+
+#foll #swhite {
+    font-size: 20px;
+    color: #C62121;
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+#foll #swhite:hover {
+    background-color: #C62121;
+    color: white;
+}
+
+footer ul {
+    font-family: "HelveticaNeueLTStd-Roman";
+    font-size: 14px;
+    letter-spacing: 2px;
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+footer a,
+footer a:focus,
+footer a:hover {
+    text-decoration: none;
+}
+
+#copyright {
+    font-family: "HelveticaLTStd-Roman";
+    font-size: 14px;
+    margin-bottom: 12px;
+}

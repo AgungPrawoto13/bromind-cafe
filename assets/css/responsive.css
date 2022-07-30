@@ -1,0 +1,1946 @@
+/* Extra Small Size */
+
+@media only screen and (min-width: 350px) {
+    
+    #number .input-group{
+        width: 61%;
+    }
+
+    input[type="number"]{
+        width: 22%;
+    }
+    /*teks jenis makanan*/
+    #type h5{
+        font-size: 1rem;
+    }
+
+    /*tombol order cart*/
+    .btn-orer{
+        margin-top: -1rem !important;
+        margin-bottom: 2rem !important;
+    }
+
+    /*garis best menu*/
+    #best-menu h3{
+        border-bottom: 2px solid;
+        border-right: 2px solid;
+        border-color: #C62121;
+        width: 50%;
+    }
+
+    /*teks pada translate*/
+    .language{
+        color: black;
+        margin-bottom: 5rem !important;
+    }
+
+    /*garis bagian story page */
+    .box-line-story{
+        margin-top: -4%;
+        height: 184px;
+        left: 17%;
+        width: 75%;
+    }
+
+    /*garis pada story dan gambar maps*/
+    .box-line{
+        width: 88% !important;
+        margin-top: -4.5% !important;
+        height: 390px;
+    }
+
+    /*logo navbar mobile*/
+    .navbar-brand{
+        margin-left: -5%;
+    }
+
+    /*mengatur poto pada keranjang belanja*/
+    .remove {
+        margin-left: -22%;
+        margin-top: 5%;
+    }
+    .cart-image img {
+        height: 200px;
+    }
+    /*mengatur gambar pada bagian semua menu*/
+    .image-prduk img {
+        height: 200px;
+    }
+    .margin-top {
+        margin-top: 8rem !important;
+    }
+    .history h2 {
+        margin-left: 0 !important;
+    }
+    
+    /*teks gopay dan ovo*/
+    .gopay b,
+    .ovo b {
+        font-size: 18px;
+    }
+    /*nama produk*/
+    #name_produk h3 {
+        font-size: 20px;
+    }
+    /*harga*/
+    .harga {
+        width: 37%;
+        margin-left: -8.8%;
+    }
+    .harga h5 {
+        font-size: 18px;
+        margin-top: .5rem !important;
+    }
+    /*teks fasilitas dan story*/
+    #story .isi,
+    #location .nunito2 {
+        font-size: 15px;
+    }
+    .facilities h3,
+    #story b,
+    #location h3 {
+        margin-left: 0;
+        font-size: 25px;
+    }
+    /*background pada hero */
+    .background {
+        height: 320px;
+    }
+    /*story*/
+    #story {
+        margin-left: 0;
+    }
+    /*texs ovo & gopay*/
+    .gopay {
+        margin-left: 8%;
+    }
+    .ovo {
+        margin-top: 1rem;
+        margin-left: 10%;
+    }
+    /*discount*/
+    .discount-m img {
+        position: absolute;
+        margin-top: -9%;
+        margin-left: -11%;
+    }
+    /*story*/
+    #story,
+    #location {
+        margin-top: 1.5rem;
+    }
+    /* gambar tangan kiri */
+    .kopi2 img {
+        margin-top: -60%;
+        margin-left: -10%;
+    }
+    .kopi1 img {
+        margin-top: -30%;
+        margin-left: 20%;
+    }
+    /*tombol order now*/
+    .tombol img {
+        margin-top: -240%;
+        margin-left: 200%;
+    }
+    /*tulisan bromind */
+    .bromind img {
+        margin-top: -120%;
+        margin-left: 14%;
+        width: 100% !important;
+    }
+    /* gambar follow us */
+    .follow_us {
+        width: 9%;
+        top: 24%;
+        margin-left: -6%;
+    }
+    .follow_us #blackr {
+        width: 100%;
+        margin: 5px;
+    }
+    .follow_us #blackr i{
+        font-size: 18px;
+        color: white;
+        margin-left: -22%;
+    }
+}
+
+@media only screen and (min-width: 410px) {
+    
+    #number .input-group{
+        width: 52%;
+    }
+
+    /*panjang garis merah best menu */
+    #best-menu h3{
+        width: 45%;
+    }
+
+    /*garis story page */
+    .box-line-story{
+        margin-top: -4%;
+        height: 201px;
+        left: 17%;
+        width: 75%;
+    }
+
+    .remove {
+        margin-left: -19%;
+        margin-top: 4%;
+    }
+    .margin-top {
+        margin-top: 8rem !important;
+    }
+    .history h2 {
+        margin-left: 0 !important;
+    }
+    /*discount */
+    .discount-m img {
+        margin-top: -7%;
+        margin-left: -9%;
+    }
+    /*harga*/
+    .harga {
+        left: 61.4%;
+        width: 32%;
+    }
+    /*gambar tangan*/
+    .cofe1 img {
+        margin-top: -30%;
+    }
+    .cofe2 img {
+        margin-top: -55%;
+    }
+    /*tombol order*/
+    .tombol-btn img {
+        margin-top: -190%;
+        margin-left: 190%;
+    }
+    /*text bromind*/
+    .bromind-text img {
+        margin-top: -102%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    
+    .modal-body #qty{
+        margin-bottom: 50px;
+    }
+
+    .modal-body #m-bottom{
+        position: relative !important;
+        margin-top: 20px;
+    }
+
+    .modal-body #proprice{
+        font-size: 20px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .modal-body #proname{
+        font-family: "HelveticaNeueLTStd-Roman" !important;
+        font-size: 24px;
+        margin-top: 35px;
+    }
+
+    .prodetail .modal-body .desktop{
+        display: none;
+    }
+
+    #img img {
+        max-width: 80%;
+    }
+    
+    /*follow us pada mobile */
+    .follow_us #blackr{
+        width: 100%;
+        height: 36px;
+    }
+
+    .margin-top {
+        margin-top: 8rem !important;
+    }
+    .history h2 {
+        margin-left: 0 !important;
+    }
+    /* NAVBAR */
+    .width-100 {
+        width: 100%;
+    }
+    .navbar-nav#list {
+        font-family: "HelveticaNeueLTStd-Med";
+        font-size: 28px;
+    }
+    .navbar-toggler {
+        border: 0;
+    }
+    .navbar {
+        height: 76px;
+        padding-left: 34px;
+        padding-right: 19px;
+    }
+    .navbar-brand {
+        height: 48px;
+        width: 48px;
+        margin-left: -3%;
+    }
+    .navbar-brand img {
+        width: 36px;
+    }
+    .navbar-toggler img {
+        height: 24px;
+        width: 24px;
+    }
+    .navbar-collapse {
+        padding: 10px 20px !important;
+    }
+    .navbar #notif-sm {
+        font-family: "HelveticaNeueLTStd-Bold";
+        font-size: 12px;
+        color: white;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        background-color: #C62121;
+        position: absolute;
+        left: 59px;
+        top: 22px;
+        text-align: center;
+    }
+    .navbar-nav#cart-lang {
+        font-family: "HelveticaNeueLTStd-Roman";
+        font-size: 24px;
+    }
+    nav button:focus {
+        outline: none;
+    }
+    nav .btn-light:hover {
+        border: 0;
+        background-color: white;
+    }
+    nav .dropdown-menu {
+        position: absolute !important;
+        right: 0;
+        left: auto;
+    }
+    #list li {
+        margin: 15px 0 !important;
+    }
+    #cart-lang .d-block {
+        display: inline !important;
+    }
+    /*  MAIN
+        CONTACT US */
+    main {
+        margin: 166px 0 130px 0;
+    }
+    main {
+        max-width: min-content !important;
+    }
+    .card-body {
+        /*padding: 26px 38px;*/
+    }
+    /* Contact Heading */
+    .card-body #h-contact {
+        font-size: 28px;
+        text-align: center;
+    }
+    /* red line */
+    .card-body #red-line {
+        width: 120px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    /* Form */
+    .card-body form {
+        margin-top: 30px;
+    }
+    form #sm-nm,
+    form #sm-em,
+    form #sm-msg {
+        font-size: 12px;
+    }
+    form #sm-em,
+    form #sm-msg {
+        margin-top: 25px;
+    }
+    form input[type="email"],
+    form input[type="text"] {
+        font-size: 16px;
+        width: 250px;
+    }
+    form textarea {
+        font-size: 16px;
+        height: 100px;
+        width: -webkit-fill-available;
+        padding: 10px;
+        border: 1px solid #262626;
+    }
+    form .checkbox {
+        margin: 20px 0 84px;
+    }
+    form label {
+        font-size: 16px;
+    }
+    form input[type="checkbox"] {
+        width: 20px;
+        height: 20px;
+        border-radius: 0px !important;
+        margin-right: 5px;
+    }
+    form .btn-danger {
+        font-size: 20px;
+        height: 62px;
+        width: -webkit-fill-available;
+        position: absolute;
+        right: -1px;
+        bottom: -1px;
+    }
+    /* FOOTER */
+    footer h4 {
+        font-family: "HelveticaNeueLTStd-Bold";
+        font-size: 20px;
+    }
+    footer #open {
+        margin-top: 55px !important;
+        height: max-content;
+        padding: 0px;
+        border: none;
+    }
+    footer #foll {
+        text-align: center;
+        padding: 0;
+        margin-top: 50px;
+        margin-bottom: 60px;
+    }
+    footer #loc {
+        padding: 0 50px;
+        margin-bottom: 85px;
+    }
+    #open h4 {
+        margin: 0px 0 0px 50px !important;
+    }
+    #open img {
+        width: 68px;
+        top: -25px;
+        left: 123px;
+    }
+    #open table {
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #open td {
+        font-size: 14px;
+        letter-spacing: 2px;
+        line-height: 30px;
+    }
+    #foll h4 {
+        margin-bottom: 17px;
+    }
+    #foll li {
+        margin: 0 12px;
+    }
+    #foll #swhite {
+        font-size: 16px;
+        width: 30px;
+        height: 30px;
+    }
+    #loc img {
+        margin-right: 5px;
+    }
+    #loc ul {
+        font-size: 12px;
+    }
+    /* line white */
+    footer #ln-1,
+    footer #ln-2 {
+        display: block !important;
+        position: absolute;
+        height: 1px;
+        background-color: white;
+    }
+    footer #ln-1 {
+        top: 220px;
+        width: 55%;
+    }
+    footer #ln-2 {
+        top: 350px;
+        width: 75%;
+        right: 0;
+    }
+    #copyright {
+        font-family: "HelveticaLTStd-Roman";
+        font-size: 10px;
+        margin-bottom: 16px;
+    }
+}
+
+
+/* Small Size */
+
+@media screen and (min-width: 576px) {
+    
+    .prodetail .modal-dialog{
+        max-width: 95%;
+    }
+
+    .prodetail .modal-body .mobile{
+        display: none;
+    } 
+
+     /*mengatur gambar pada cart*/
+    .cart-image img{
+        width: 75% !important;
+    }
+
+    .margin-top {
+        margin-top: 8rem !important;
+    }
+    .history h2 {
+        margin-left: 0 !important;
+    }
+    /* NAVBAR */
+    .navbar-toggler {
+        border: 0;
+    }
+    .navbar {
+        height: 80px;
+        padding-left: 34px;
+        padding-right: 19px;
+    }
+    .navbar-brand {
+        height: 50px;
+        width: 50px;
+    }
+    .navbar-brand img {
+        width: 38px;
+    }
+    .navbar-toggler img {
+        height: 26px;
+        width: 26px;
+    }
+    .navbar #notif-sm {
+        font-family: "HelveticaNeueLTStd-Bold";
+        font-size: 12px;
+        color: white;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        background-color: #C62121;
+        position: absolute;
+        left: 81px !important;
+        top: 21px !important
+        ;
+        text-align: center;
+    }
+    .navbar-nav#list {
+        font-family: "HelveticaNeueLTStd-Med";
+        font-size: 42px;
+        width: inherit;
+    }
+    .navbar-nav#cart-lang {
+        font-family: "HelveticaNeueLTStd-Roman";
+        font-size: 24px;
+    }
+    nav button:focus {
+        outline: none;
+    }
+    nav .btn-light:hover {
+        border: 0;
+        background-color: white;
+    }
+    nav .dropdown-menu {
+        position: absolute !important;
+        right: 0;
+        left: auto;
+    }
+    #list li {
+        margin: 5px 0 !important;
+    }
+    #cart-lang .d-block {
+        display: inline !important;
+    }
+    /*  MAIN
+        CONTACT US */
+    main {
+        margin: 166px 0 130px 0;
+    }
+    .card-body {
+        padding: 26px 38px;
+    }
+    /* Contact Heading */
+    .card-body #h-contact {
+        font-size: 28px;
+        text-align: center;
+    }
+    /* red line */
+    .card-body #red-line {
+        width: 120px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    /* Form */
+    .card-body form {
+        margin-top: 30px;
+    }
+    form #sm-nm,
+    form #sm-em,
+    form #sm-msg {
+        font-size: 12px;
+    }
+    form #sm-em,
+    form #sm-msg {
+        margin-top: 25px;
+    }
+    form input[type="email"],
+    form input[type="text"] {
+        font-size: 16px;
+        width: -webkit-fill-available;
+    }
+    form textarea {
+        font-size: 16px;
+        height: 100px;
+        width: -webkit-fill-available;
+        padding: 10px;
+        border: 1px solid #262626;
+    }
+    form .checkbox {
+        margin: 20px 0 84px;
+    }
+    form label {
+        font-size: 16px;
+    }
+    form input[type="checkbox"] {
+        width: 20px;
+        height: 20px;
+        border-radius: 0px !important;
+        margin-right: 5px;
+    }
+    form .btn-danger {
+        font-size: 20px;
+        height: 62px;
+        width: -webkit-fill-available;
+        position: absolute;
+        right: -1px;
+        bottom: -1px;
+    }
+    /* FOOTER */
+    footer h4 {
+        font-family: "HelveticaNeueLTStd-Bold";
+        font-size: 20px;
+    }
+    footer #open {
+        margin-top: 55px !important;
+        height: max-content;
+        padding: 0px;
+        border: none;
+    }
+    footer #foll {
+        text-align: center;
+        padding: 0;
+        margin-top: 50px;
+        margin-bottom: 60px;
+    }
+    footer #loc {
+        padding: 0 80px;
+        margin-bottom: 60px;
+    }
+    #open h4 {
+        margin: 0px 0 0px 80px !important;
+    }
+    #open img {
+        width: 68px;
+        top: -25px;
+        left: 157px;
+    }
+    #open table {
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #open td {
+        font-size: 14px;
+        letter-spacing: 3px;
+        line-height: 30px;
+    }
+    #foll h4 {
+        margin-bottom: 17px;
+    }
+    #foll li {
+        margin: 0 12px;
+    }
+    #foll #swhite {
+        font-size: 17px;
+        width: 35px;
+        height: 35px;
+    }
+    #loc img {
+        margin-right: 5px;
+    }
+    #loc ul {
+        font-size: 12px;
+    }
+    /* line white */
+    footer #ln-1,
+    footer #ln-2 {
+        display: block !important;
+        position: absolute;
+        height: 1px;
+        background-color: white;
+    }
+    footer #ln-1 {
+        top: 220px;
+        width: 55%;
+    }
+    footer #ln-2 {
+        top: 350px;
+        width: 70%;
+        right: 0;
+    }
+    #copyright {
+        font-family: "HelveticaLTStd-Roman";
+        font-size: 10px;
+        margin-bottom: 16px;
+    }
+}
+
+/*mode landscape mobile*/
+
+@media (min-width: 650px) and (max-width: 729px) {
+    
+    #number .input-group{
+        width: 72%;
+    }
+
+    .btn-d{
+        margin-top: 1.5rem;
+    }
+
+    /*panjang garis merah best menu */
+    #best-menu h3{
+        width: 85%;
+    }
+
+    /*garis story page */
+    .box-line-story{
+        margin-top: 0%;
+        height: 218px;
+        left: 28%;
+        width: 49.5%;
+    }
+
+    /*follow us*/
+    .follow_us {
+        width: 5.5%;
+        margin-left: -11%;
+    }
+
+    /*garis merah dibelakang poto story dan maps*/
+    .box-line{
+        width: 56% !important;
+        margin-top: -2.5% !important;
+        margin-left: 13% !important;
+    }
+
+    .remove {
+        margin-left: -16%;
+        margin-top: 3%;
+    }
+    /*poto semua produk */
+    .image-prduk {
+        width: 50%;
+    }
+    .margin-top {
+        margin-top: 8rem !important;
+    }
+    .history h2 {
+        margin-left: 0 !important;
+    }
+    /*gambar promo*/
+    .discount-m img {
+        left: 4%;
+        margin-top: -8%;
+    }
+    /*harga*/
+    .harga {
+        left: 57.5%;
+        width: 22%;
+    }
+    /* text navbar landscape*/
+    .margin-auto {
+        margin: auto;
+        margin-top: 3%;
+    }
+    #list a {
+        font-size: 28px;
+    }
+    /*gambar tangan*/
+    .kopi2 img {
+        width: 76% !important;
+        margin-top: -35%;
+        margin-left: -30%;
+    }
+    .kopi1 img {
+        width: 76% !important;
+        margin-top: -24%;
+    }
+    /*gambar tombol*/
+    .tombol img {
+        width: 50% !important;
+        margin-top: -96%;
+        margin-left: 174%;
+    }
+    /*text bromind*/
+    .bromind img {
+        margin-top: -59%;
+        width: 77% !important;
+    }
+}
+
+@media (min-width: 660px) and (max-width: 670px){
+    .box-line-story{
+        margin-top: -3%;
+        height: 218px;
+        left: 28%;
+        width: 49.5%;
+    }
+}
+
+@media (min-width: 730px) and (max-width: 766px) {
+
+    #btn {
+        margin-top: 2rem;
+    }
+
+    #number .input-group{
+        width: 63%;
+    }
+
+    input[type="number"]{
+        width: 15%;
+    }
+
+    /*panjang garis merah best menu */
+    #best-menu h3{
+        width: 85%;
+    }
+
+    /*garis merah story page*/
+    .box-line-story{
+        margin-top: -2%;
+        height: 215px;
+        left: 29.5%;
+        width: 45%;
+    }
+
+    /*ukuran navigasi pada mobile*/
+    #list li a{
+        font-size: 30px;
+    }
+
+    /*garis merah yang dibelakang poto story sama maps*/
+    .box-line{
+        width: 50% !important;
+        left: 28% !important;
+        margin-top: -3% !important;
+    }
+
+    /*logo navbar mobile landscape */
+    .navbar-brand{
+        margin-left: 0;
+    }
+    .remove {
+        margin-left: -16%;
+        margin-top: 4%;
+    }
+    /*mengatur gambar produk*/
+    .image-prduk {
+        width: 45%;
+    }
+    /*harga*/
+    .harga {
+        width: 21%;
+        margin-left: -14%;
+    }
+    /*tombol search */
+    .search {
+        width: 68% !important;
+        float: right;
+    }
+    .margin-top {
+        margin-top: 8rem !important;
+    }
+    .history h2 {
+        margin-left: 0 !important;
+    }
+    /*teks bromind */
+    .bromind img {
+        margin-top: -56%;
+        width: 77% !important;
+    }
+    /*order now*/
+    .tombol img {
+        margin-top: -86%;
+        width: 45% !important;
+        margin-left: 174%;
+    }
+    /*tangan */
+    .kopi1 img {
+        width: 84% !important;
+    }
+    .kopi2 img {
+        width: 84% !important;
+        margin-top: -36%;
+        margin-left: -31%;
+    }
+    /* background merah*/
+    .background {
+        height: 330px;
+    }
+    /*follow us*/
+    .follow_us #blackr {
+        margin-left: -10%;
+        width: 63%;
+    }
+}
+
+@media only screen and (min-width: 812px) and (orientation: landscape) {
+    
+    .nav-link #notif-sm{
+        margin-top: 3px;
+        margin-left: -1px;
+    }
+
+    #number .input-group{
+        width: 55% !important;
+    }
+
+    /*mengatur teks alamat bromind*/
+    #location{
+        margin-top: 4.5rem;
+    }
+
+    /*mengatur gambar ke 2 bagian maps*/
+    #image-resto{
+        margin-top: 3.5rem;
+        margin-left: 0rem;
+    }
+
+    /*garis merah story page */
+    .box-line-story{
+        margin-top: -2% !important;
+        height: 295px !important;
+        left: 24.5% !important;
+        width: 55.5% !important;
+    }
+
+    /*follow us pada mobile */
+    .follow_us{
+        margin-left: -10% !important;
+    }
+
+    .follow_us #blackr{
+        width: 49% !important;
+        margin-left: 0;
+    }
+    .remove {
+        margin-top: -2%;
+        margin-left: -17%;
+    }
+    .margin-top {
+        margin-top: 8rem !important;
+    }
+    .history h2 {
+        margin-left: 0 !important;
+    }
+    /*harga*/
+    .harga {
+        left: 60.2%;
+    }
+    /*navbar mobile*/
+    #list a {
+        font-size: 24px;
+    }
+    /*tombol all produk, gambar dilokasi, gambar story*/
+    #all-produk img {
+        width: 75% !important;
+        margin-left: 12%;
+    }
+    /*gambar ovo*/
+    #ovo img,
+    #gopay img,
+    #button-story img {
+        width: 75% !important;
+    }
+    /*tombol maps*/
+    #button-maps img {
+        width: 64% !important;
+    }
+    /*background merah pada hero*/
+    .background {
+        height: 350px;
+    }
+    /*gambar promo*/
+    .discount-m img {
+        margin-top: -17%;
+        margin-left: -16%;
+    }
+}
+
+
+/*@media only screen (max-width: 949px){
+
+    @media only (min-width: 811px) and (orientation: landscape){
+        .bromind img{
+            position: absolute;
+            top: 150%;
+            margin-left: -30%;
+        }
+    }
+}*/
+
+
+/* Medium Size */
+
+@media only screen and (min-width: 768px) {
+
+    .harga{
+        left: 60.2%;
+        width: 32%;
+    }
+
+    #number .input-group{
+        width: 60%;
+    }
+
+    .modal-body #qty{
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+
+    .modal-body #prodesc{
+        font-size: 16px;
+        margin-top: 12px;
+    }
+
+    .modal-body #proprice{
+        font-size: 18px;
+    }
+
+    .modal-body #proname{
+        font-size: 24px;
+    }
+
+    /*panjang garis merah best menu */
+    #best-menu h3{
+        width: 65%;
+    }
+
+    /*mengatur teks alamat bromind */
+    #location{
+        margin-top: 4.5rem;
+    }
+
+    /*mengatur gambar ke dua bagian maps */
+    #image-resto{
+        margin-left: 0rem;
+        margin-top: 3.2rem;
+    }
+
+    /*garis merah story page */
+    .box-line-story{
+        margin-top: -2%;
+        height: 290px;
+        left: 23%;
+        width: 58.5%;
+    }
+
+    /*garis merah yang diblakang poto story sama maps*/
+    .box-line{
+        width: 39% !important;
+        left: 11% !important;
+        margin-top: 5% !important;
+    }
+
+    /*follow us*/
+    .follow_us{
+        margin-left: -11%;
+    }
+    .follow_us #blackr {
+        width: 63%;
+    }
+    .remove {
+        margin-left: -16%;
+        margin-top: 3%;
+    }
+    .margin-top {
+        margin-top: 8rem !important;
+    }
+    .history h2 {
+        margin-left: 0 !important;
+    }
+    /*background hero*/
+    .background {
+        height: 415px;
+    }
+    /*gambar discount*/
+    .discount-m img {
+        margin-top: -7%;
+        margin-left: -9%;
+    }
+    /*texk gopay*/
+    .gopay {
+        margin-top: 1rem;
+    }
+    /*ovo dan gopay*/
+    #gopay img,
+    #ovo img,
+    #all-produk img {
+        width: 75% !important;
+        margin-left: 12%;
+    }
+    
+    /*kumpulan tombol*/
+    #button-story img,
+    #button-maps img {
+        width: 100% !important;
+    }
+    /*text navbar mobile*/
+    #list a {
+        font-size: 30px;
+    }
+    /*gambar tangan */
+    .kopi1 img {
+        width: 75% !important;
+        margin-top: -26%;
+        margin-left: 30%;
+    }
+    .kopi2 img {
+        width: 75% !important;
+        margin-top: -40%;
+        margin-left: -20%;
+    }
+    /*tombol order now*/
+    .tombol img {
+        width: 65% !important;
+        margin-top: -141%;
+        margin-left: 152%;
+    }
+    /*text bromind*/
+    .bromind img {
+        width: 75% !important;
+        margin-top: -81%;
+    }
+    
+    /* NAVBAR */
+    .offcanvas-header {
+        margin-top: 12px !important;
+    }
+    .navbar {
+        height: 85px;
+        padding: 0 40px;
+    }
+    .navbar-brand {
+        height: 65px;
+        width: 65px;
+    }
+    .navbar-brand img {
+        width: 52px;
+    }
+    .navbar-toggler img {
+        height: 30px;
+        width: 30px;
+    }
+    .navbar-collapse.show {
+        padding: 10px 40px;
+    }
+    .navbar #notif-sm {
+        left: 60px;
+        top: 17px;
+    }
+    /* FOOTER */
+    footer h4 {
+        font-family: "HelveticaNeueLTStd-Med";
+        font-size: 24px;
+    }
+    #open img {
+        width: 90px;
+        top: -33px;
+        left: 170px;
+    }
+    #open td {
+        font-size: 16px;
+        letter-spacing: 3px;
+        line-height: 45px;
+    }
+    #foll #swhite {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+    }
+    #loc ul {
+        font-size: 14px;
+    }
+    /* Line White */
+    footer #ln-1 {
+        top: 260px;
+        width: 65%;
+    }
+    footer #ln-2 {
+        top: 410px;
+        width: 70%;
+    }
+}
+
+
+/*mode landscape iped*/
+
+@media (min-width: 950px) and (orientation: landscape) {
+    .margin-top {
+        margin-top: 8rem !important;
+    }
+    .history h2 {
+        margin-left: 0 !important;
+    }
+    /*text bromind*/
+    .bromind img {
+        width: 77% !important;
+        position: absolute;
+        top: 300%;
+        right: 5%;
+    }
+    /*tombol order*/
+    .tombol img {
+        width: 50% !important;
+        margin-left: 163%;
+        margin-top: -110%;
+    }
+    /*follow us*/
+    .follow_us img {
+        margin-left: -20%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    
+    .modal-body #prodesc, .modal-body #qty{
+        font-family: "HelveticaLTStd-Light";
+    }
+
+    .modal-body #proprice{
+        font-family: "HelveticaNeueLTStd-Light";
+    }
+
+    .modal-body #proname{
+        font-family: "HelveticaNeueLTStd-Med";
+    }
+
+    .modal-body #m-bottom{
+        position: absolute;
+        bottom: 0;
+    }
+
+    /*posisi ditengah*/
+    .margin-auto {
+        margin: auto;
+    }
+
+    .margin-top {
+        margin-top: 8rem !important;
+    }
+    .history h2 {
+        margin-left: 0 !important;
+    }
+    /* NAVBAR */
+    .offcanvas-header {
+        display: block;
+    }
+    .navbar-collapse {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        background-color: white;
+        left: 100%;
+        width: 100%;
+        padding: 4px 25px;
+        overflow-y: auto;
+        visibility: hidden;
+        transition: visibility .2s ease-in-out, transform .2s ease-in-out;
+    }
+    .navbar-collapse.show {
+        visibility: visible;
+        transform: translateX(-100%);
+        padding: 10px 40px;
+    }
+    footer #story {
+        display: none;
+    }
+}
+
+
+/* Large Size */
+
+@media screen and (min-width: 992px) {
+    
+    .modal-body #m-bottom{
+        position: absolute;
+        bottom: 0;
+    }
+
+    .modal-body #prodesc{
+        font-size: 18px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .modal-body #proprice{
+        font-family: "HelveticaNeueLTStd-Light";
+        font-size: 20px;
+    }
+
+    .modal-body #proname{
+        font-family: "HelveticaNeueLTStd-Med";
+        font-size: 32px;
+    }
+
+    .prodetail .modal-dialog{
+        max-width: 85% !important;
+    }
+
+    /*teks pilih bahasa*/
+    .language_translate{
+        width: 150%;
+        margin-top: 0.5rem !important;
+    }
+
+    .language{
+        color: white;
+    }
+
+    .margin-top {
+        margin-top: 8rem !important;
+    }
+    .history h2 {
+        margin-left: 0 !important;
+    }
+    /* NAVBAR */
+    .navbar {
+        height: 90px;
+        padding: 0 40px;
+    }
+    .navbar-brand {
+        height: 70px;
+        width: 70px;
+    }
+    .navbar-brand img {
+        width: 58px;
+    }
+    .navbar #list {
+        font-family: "HelveticaNeueLTStd-Roman";
+        font-size: 20px !important;
+        margin-right: 5.8% !important;
+    }
+    .navbar #notif-lg {
+        font-family: "HelveticaNeueLTStd-Bold";
+        font-size: 12px;
+        color: #C62121;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        background-color: white;
+        position: absolute;
+        right: 196px;
+        top: 22px;
+        text-align: center;
+        font-size: 10px;
+    }
+    .navbar #cart-lang {
+        font-size: 20px !important;
+        margin-left: 10.2rem;
+    }
+    .navbar #list li {
+        margin: 5px 10px !important;
+    }
+    .nav-item .d-lg-block {
+        display: inline !important;
+    }
+    /*  MAIN
+        CONTACT US */
+    .card-body {
+        padding: 42px 42px 68px 80px;
+    }
+    .card-body #h-contact {
+        font-size: 32px;
+        text-align: left;
+    }
+    .card-body #red-line {
+        width: 180px;
+        margin-left: 10px;
+    }
+    .card-body form {
+        margin-top: 60px;
+        margin-left: 30px;
+    }
+    form input[type="email"],
+    form input[type="text"] {
+        font-size: 18px;
+        width: 300px;
+    }
+    form #sm-msg {
+        margin-top: 0px;
+    }
+    form .message {
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: -webkit-fill-available;
+        width: 470px;
+        margin-top: 42px;
+        padding: 20px;
+        border-left: 1px solid black;
+    }
+    form textarea {
+        font-size: 18px;
+        height: 220px;
+        margin: 20px 0 0;
+        padding: 0px;
+        border: none;
+    }
+    form .btn-danger {
+        font-size: 24px;
+        width: 471px;
+    }
+    /* FOOTER */
+    footer {
+        position: relative;
+    }
+    footer h4 {
+        font-size: 20px;
+    }
+    #story h4 {
+        margin-bottom: 20px;
+    }
+    footer #story {
+        display: block;
+    }
+    footer #story {
+        margin: 50px 0 0 30px;
+    }
+    #story p {
+        font-size: 10px;
+        letter-spacing: 1px;
+        line-height: 180%;
+        margin-bottom: 0;
+    }
+    footer #open {
+        max-width: 30%;
+        height: auto;
+        margin-left: 60px;
+        border: none;
+    }
+    #open h4 {
+        margin: 0 !important;
+    }
+    #open img {
+        width: 70px;
+        top: -25px;
+        left: 75px;
+    }
+    #open table {
+        margin-left: 0;
+    }
+    #open td {
+        font-size: 14px;
+        letter-spacing: 2px;
+        line-height: 35px;
+    }
+    footer #foll {
+        text-align: left;
+        margin-bottom: 40px;
+        height: max-content;
+    }
+    #foll #swhite {
+        font-size: 18px;
+        width: 35px;
+        height: 35px;
+    }
+    #foll ul {
+        margin-bottom: 0;
+    }
+    #foll li {
+        margin: 0 10px 0 0;
+    }
+    footer #ln-1,
+    footer #ln-2 {
+        display: block !important;
+        position: absolute;
+        background-color: white;
+        height: 1px;
+    }
+    footer #ln-1 {
+        height: 74%;
+        top: 50px;
+        left: 37%;
+        width: 1px;
+    }
+    footer #ln-2 {
+        width: 20%;
+        top: 142px;
+        right: 7%;
+    }
+    footer #loc {
+        padding: 0;
+        margin-bottom: 0;
+    }
+    #loc li {
+        margin-right: 0;
+        font-size: 10px;
+    }
+    #copyright {
+        font-family: "HelveticaNeueLTStd-Roman";
+        font-size: 12px;
+    }
+}
+
+
+/*mode lands cape iped*/
+
+@media (min-width: 1024px) and (orientation: landscape) {
+
+    .language_translate select{
+        margin-left: -0.5rem;
+        position: absolute;
+        top: 2rem;
+    }
+
+    .language_translate img{
+        margin-top: -0.2rem;
+        margin-left: 1rem;
+    }
+
+    #number .input-group{
+        width: 46% !important;
+    }
+
+    /*panjang garis merah best menu */
+    #best-menu h3{
+        width: 45%;
+    }
+
+    /*garis merah di page story */
+    .box-line-story{
+        width: 59% !important;
+        height: 400px !important;
+        left: 23% !important;
+    }
+
+    /*mengatur teks alamat bromind */
+    #location{
+        margin-top: 1.5rem;
+    }
+
+    /*mengatur gambar bagian maps*/
+    #image-resto{
+        margin-top: 0rem;
+    }
+
+    /*garis merah */
+    .box-line{
+        margin-top: -2% !important;
+    }
+
+    /*gambar gopay*/
+    .gopay img{
+        width: 100% !important;
+    }
+
+    .margin-top {
+        margin-top: 8rem !important;
+    }
+    .margin-auto{
+        margin: auto !important;
+    }
+
+    .history h2 {
+        margin-left: 0 !important;
+    }
+    /*gambar gopay*/
+    .ovo img {
+        width: 70% !important;
+    }
+    /*tombol story*/
+    #button-story img {
+        margin-top: 15%;
+    }
+    /*ukuran teks pada navbar*/
+    #list a,
+    .dropdown a {
+        font-size: 19px;
+    }
+    /*gambar discount*/
+    .discount img {
+        left: 5%;
+        margin-top: -5%;
+    }
+    /*ovo dan gopay*/
+    #gopay img,
+    #ovo img {
+        width: 55% !important;
+        margin-left: 18%;
+    }
+    /*best menu*/
+    #name_produk h3 {
+        margin-left: -15%;
+    }
+    .harga {
+        width: 25%;
+        left: 51.5%;
+    }
+    .harga h5 {
+        margin-left: 6%;
+    }
+    .image-prduk img {
+        width: 75% !important;
+        height: 200px;
+    }
+    #best-menu img {
+        width: 65% !important;
+    }
+    /*fasilitias*/
+    .facilities h3 {
+        margin-left: 14%;
+    }
+    #facilities {
+        width: 55%;
+    }
+    /*tombol order now*/
+    .tombol img {
+        margin-top: -135%;
+    }
+    /*follow us*/
+    .follow_us img {
+        margin-top: 10%;
+        margin-left: 20%;
+    }
+    /*text- bromind*/
+    .bromind img {
+        width: 72% !important;
+        margin-top: -65%;
+    }
+    /*background merah pada hero*/
+    .background {
+        height: 500px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+
+    .language_translate select{
+        margin-left: -1.0%;
+        position: absolute;
+        top: 1.5rem;
+        left: 2.5rem;
+    }
+
+    .language_translate img{
+        margin-top: 1.5rem;
+        margin-left: 47.7%;
+    }
+
+    #number .input-group{
+        width: 32% !important;
+    }
+
+    input[type="number"]{
+        width: 33%;
+    }
+
+    /*gambar pada cart*/
+    .cart-image img{
+        width: 100% !important;
+    }
+
+    /*panjang garis merah best menu */
+    #best-menu h3{
+        width: 100%;
+    }
+
+    .language_translate{
+        position: absolute;
+        top: 0.5rem;
+        width: 1.5rem;
+        margin-left: 60rem;
+    }
+
+    #story-teks{
+        position: relative;
+        top: 4rem;
+    }
+
+    /*tombol remove cart*/
+    .remove {
+        margin-left: -5%;
+    }
+
+    /*mengatur gambar ke 2 bagian maps */
+    #image-resto{
+        margin-left: 3rem;
+    }
+
+    /*garis merah*/
+    .box-line-story{
+        margin-top: 16% !important;
+        left: 11% !important;
+        width: 32% !important;
+        height: 290px !important;
+    }
+
+    .box-line{
+        margin-top: -1.5% !important;
+        left: 14% !important;
+        width: 33% !important;
+    }
+
+    /*follow us*/
+     .follow_us{
+        margin-left: -9% !important;
+        width: 7%;
+    }
+
+    .follow_us #blackr {
+        width: 42% !important;
+        margin-top: 16%;
+    }
+
+    /*follow us dekstop*/
+
+    .margin-let{
+        margin-left: 3rem;
+    }
+
+    /*tombol cari */
+    .search {
+        margin-left: 155%;
+    }
+    .history h2 {
+        margin-left: 83.333333% !important;
+    }
+    .margin-top {
+        margin-top: 4rem !important;
+    }
+    .margin-left {
+        margin-left: 1rem;
+    }
+    /*teks fasilitas*/
+    .facilities h3 {
+        margin-left: 3%;
+    }
+    /*teks bahasa di navbar*/
+    #cart-lang a {
+        font-family: "HelveticaNeueLTStd-Light";
+        margin-left: -9.5rem;
+    }
+    /*button maps*/
+    #button-maps img {
+        width: 75% !important;
+    }
+    /*ovo*/
+    .ovo,
+    .gopay {
+        margin-left: 0;
+    }
+    #ovo img {
+        width: 90% !important;
+        margin-top: 10%;
+        margin-left: -250%;
+    }
+    /*gopay*/
+    #gopay img {
+        width: 110% !important;
+    }
+    /*harga discount*/
+    .discount img {
+        margin-top: -13%;
+        margin-left: -15%;
+    }
+    /*tombol all produk*/
+    #all-produk img {
+        width: 80% !important;
+        margin-left: 9%;
+    }
+    /*daftar harga*/
+    .harga {
+        left: 43.6%;
+        width: 36%;
+        top: -9%;
+    }
+    .harga h5 {
+        font-size: 16px;
+        position: absolute;
+        top: 9%;
+        left: 15%;
+    }
+    /*button*/
+    #button-story img {
+        width: 75% !important;
+    }
+
+    /*order now*/
+    .tombol img {
+        width: 89% !important;
+        margin-top: -270%;
+        margin-left: 403%;
+    }
+    /*gambar tangan*/
+    .kopi1 img {
+        margin-top: -28%;
+        margin-left: 31%;
+    }
+    .kopi2 img {
+        margin-left: -42%;
+        margin-top: -50%;
+    }
+    /*list navbar*/
+    #list {
+        margin-left: 32% !important;
+    }
+    /*cart and language*/
+    .cart_language {
+        margin-left: 6%;
+    }
+    /*teks bromind */
+    .bromind img {
+        margin-top: -59%;
+        left: 20%;
+    }
+    /*font navbar dekstop*/
+    #list a {
+        font-size: 20px;
+        font-family: "HelveticaNeueLTStd-Light";
+    }
+    /*background merah*/
+    .background {
+        height: 660px;
+    }
+    /* NAVBAR */
+    .navbar {
+        height: 110px;
+        padding: 0 70px;
+    }
+    .navbar #notif-lg {
+        font-family: "HelveticaNeueLTStd-Bold";
+        font-size: 12px;
+        color: #C62121;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        background-color: white;
+        position: absolute;
+        right: 235px;
+        top: 31px;
+        text-align: center;
+    }
+    .navbar #list,
+    .navbar #cart-lang {
+        font-size: 20px !important;
+        margin-right: 10.5%;
+    }
+    .navbar #list li {
+        margin: 5px 15px !important;
+    }
+    /*  MAIN
+        CONTACT US */
+    .card-body #h-contact {
+        font-size: 36px;
+        margin-bottom: 19px;
+    }
+    .card-body form {
+        margin-top: 68px;
+    }
+    form #sm-nm,
+    form #sm-em,
+    form #sm-msg {
+        font-size: 14px;
+    }
+    form #sm-em {
+        margin-top: 60px;
+    }
+    form input[type="email"],
+    form input[type="text"] {
+        font-size: 20px;
+    }
+    form .checkbox {
+        margin: 50px 0 94px;
+    }
+    form label {
+        font-size: 20px;
+    }
+    form .message {
+        width: 590px;
+        padding: 42px 30px;
+    }
+    form .btn-danger {
+        font-size: 28px;
+        width: 591px;
+    }
+    /* FOOTER */
+    footer h4 {
+        font-size: 24px;
+    }
+    footer #story {
+        padding: 0 45px 0 0;
+        margin: 50px 0 0 70px;
+    }
+    #story p {
+        font-size: 14px;
+    }
+    footer #open {
+        max-width: 33%;
+        margin-left: 0;
+        margin-top: 33px !important;
+        padding-left: 50px;
+        border-left: 1px solid white;
+    }
+    #open h4 {
+        margin-top: 18px !important;
+    }
+    #open img {
+        width: 90px;
+        top: -15px;
+        left: 140px;
+    }
+    #open table {
+        margin: 40px 0 0 0;
+        width: -webkit-fill-available;
+    }
+    #open td {
+        font-size: 16px;
+        letter-spacing: 3px;
+        line-height: 45px;
+    }
+    /* Line */
+    footer #ln-1,
+    footer #ln-2 {
+        display: none !important;
+    }
+    footer #floc {
+        margin-left: 30px;
+    }
+    footer #foll {
+        padding-bottom: 18px;
+        margin-bottom: 35px;
+        border-bottom: 1px solid white;
+    }
+    #foll #swhite {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+    }
+    #loc li {
+        font-size: 14px;
+    }
+}
