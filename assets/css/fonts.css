@@ -1,0 +1,57 @@
+/* IMPORT LOCAL FONTS */
+
+
+/* 1. HelveticaNeueLTStd-Roman */
+
+@font-face {
+    font-family: "HelveticaNeueLTStd-Roman";
+    src: url('../font/helvetica/Helvetica-Neue-LT-Std/HelveticaNeueLTStd-Roman.otf');
+}
+
+
+/* 2. HelveticaNeueLTStd-Medium */
+
+@font-face {
+    font-family: "HelveticaNeueLTStd-Med";
+    src: url('../font/helvetica/Helvetica-Neue-LT-Std/HelveticaNeueLTStd-Md.otf');
+}
+
+
+/* 3. HelveticaNeueLTStd-Light */
+
+@font-face {
+    font-family: "HelveticaNeueLTStd-Light";
+    src: url('../font/helvetica/Helvetica-Neue-LT-Std/HelveticaNeueLTStd-Lt.otf');
+}
+
+
+/* 4. HelveticaLTStd-Light */
+
+@font-face {
+    font-family: "HelveticaLTStd-Light";
+    src: url('../font/helvetica/Helvetica-LT-Std/HelveticaLTStd-Light.otf');
+}
+
+
+/* 5. HelveticaLTStd-Roman */
+
+@font-face {
+    font-family: "HelveticaLTStd-Roman";
+    src: url('../font/helvetica/Helvetica-LT-Std/HelveticaLTStd-Roman.otf');
+}
+
+
+/* 6. HelveticaNeueLTStd-Bold */
+
+@font-face {
+    font-family: "HelveticaNeueLTStd-Bold";
+    src: url('../font/helvetica/Helvetica-Neue-LT-Std/HelveticaNeueLTStd-Bd.otf');
+}
+
+
+/* 7. HelveticaLTStd-Fractions-Bold */
+
+@font-face {
+    font-family: "HelveticaNeueLTStd-Bold";
+    src: url('../font/helvetica/Helvetica-LT-Std/HelveticaLTStd-FractionsBd.otf');
+}
